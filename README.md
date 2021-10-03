@@ -3,11 +3,11 @@
 
 - 🌱 **Me:** A CS Undergraduate Student from Algiers, Algeria who loves exploring new technologies and meeting like-minded people
 - 😄 **Pronouns:** He/Him/His
-- 💬 **Ask me anything about: ** Android & Backend development
-- 🌍 **I’m currently working on: **Karini, an E-Learning Platform .
-- 🌱 **I’m currently learning: **Machine Learning
-- 💜 **Interests: ** Reading, Travelling , Cycling
-- 🚲 **Fun fact: ** I eat haters for Breakfast 🙃
+- 💬 **Ask me anything about:** Android & Backend development
+- 🌍 **I’m currently working on:** Karini, an E-Learning Platform .
+- 🌱 **I’m currently learning:** Machine Learning
+- 💜 **Interests:** Reading, Travelling , Cycling
+- 🚲 **Fun fact:** I eat haters for Breakfast 🙃
 
 
 ### My Technology Stack 🔭
