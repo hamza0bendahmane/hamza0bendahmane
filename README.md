@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**hamza0bendahmane/hamza0bendahmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🌱 **Me:** A CS Undergraduate from Bhubaneshwar, India who loves exploring new technologies and meeting like-minded people
 - 😄 **Pronouns:** He/Him/His
