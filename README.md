@@ -40,7 +40,7 @@
 
 <div style='display: flex;'>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230072C6.svg?style=for-the-badge&logo=kotlin-devops&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-orange.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-orange.svg?style=for-the-badge&logo=firebase&logoColor=yellow" />
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
 </div>
