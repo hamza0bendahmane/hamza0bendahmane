@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-- 🌱 **Me:** A CS Undergraduate from Bhubaneshwar, India who loves exploring new technologies and meeting like-minded people
+- 🌱 **Me:** A CS Undergraduate from Algiers, Algeria who loves exploring new technologies and meeting like-minded people
 - 😄 **Pronouns:** He/Him/His
-- 💬 **Ask me anything about:** App and Web development
-- 🌍 **I’m currently working on:** FloraSearch, a Flower Storage and Classification platform
-- 🌱 **I’m currently learning:** Next.js
-- 💜 **Interests:** Reading, Video Games, Cycling
-- 🚲 **Fun fact:** I try to cycle 20 km everyday
+- 💬 **Ask me anything about:** Android & Backend development
+- 🌍 **I’m currently working on:** Karini, an E-Learning Platform .
+- 🌱 **I’m currently learning:**Machine Learning
+- 💜 **Interests:** Reading, Travelling , Cycling
+- 🚲 **Fun fact:** I eat haters for Breakfast 🙃
 
 
 ### My Technology Stack 🔭
@@ -24,7 +24,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23000.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </div>
 
@@ -33,6 +33,8 @@
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+   <img alt="Android" src ="https://img.shields.io/badge/android-%2307405e.svg?style=for-the-badge&logo=android&logoColor=white" />
+
 </div>
  
 
