@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there i'm Hamza👋
 
 
 - 🌱 **Me:** A CS Undergraduate from Algiers, Algeria who loves exploring new technologies and meeting like-minded people
@@ -39,7 +39,7 @@
  
 
 <div style='display: flex;'>
-  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230072C6.svg?style=for-the-badge&logo=kotlin-devops&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
