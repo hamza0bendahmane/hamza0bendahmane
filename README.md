@@ -24,7 +24,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img alt="PHP" src="https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%2361DAFB" />
-  <img alt="Java" src="https://img.shields.io/badge/java-%23000.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%5382a1.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </div>
 
