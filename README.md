@@ -45,6 +45,5 @@
 
 ### Connect with Me 🤝 
 
-<a href="https://www.linkedin.com/in/amlan-nandy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/amlankumarnandy"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="https://medium.com/@amlannandy"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hamza-bendahmane-1a3135207/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://facebook.com/hamza0bendahmane"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
