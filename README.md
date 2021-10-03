@@ -1,7 +1,7 @@
 ### Hi there i'm Hamza👋
 
 
-- 🌱 **Me:** A CS Undergraduate from Algiers, Algeria who loves exploring new technologies and meeting like-minded people
+- 🌱 **Me:** A CS Undergraduate Student from Algiers, Algeria who loves exploring new technologies and meeting like-minded people
 - 😄 **Pronouns:** He/Him/His
 - 💬 **Ask me anything about:** Android & Backend development
 - 🌍 **I’m currently working on:** Karini, an E-Learning Platform .
